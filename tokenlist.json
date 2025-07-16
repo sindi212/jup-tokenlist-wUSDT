@@ -1,0 +1,22 @@
+{
+  "name": "VVS Token List",
+  "logoURI": "https://vvs-token.my.id/logo.png",
+  "keywords": ["wrapped", "solana", "usdt", "vvs"],
+  "timestamp": "2025-07-16T22:00:00Z",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "9V1cxjPuZYQu2NzwtMdFzEjzomnCHE9d84w8hj6jmk4E",
+      "symbol": "wUSDT",
+      "name": "Wrapped USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sindi212/jup-tokenlist-wUSDT/main/token-list/wusdt-official/logo.png",
+      "tags": ["wrapped", "usdt", "solana", "bep20"],
+      "extensions": {
+        "website": "https://vvs-token.my.id",
+        "bridge": "manual",
+        "origin_contract": "0xC8e63de824D4739Dd6f7d8F035546665Dc97F20f"
+      }
+    }
+  ]
+}
